@@ -70,7 +70,7 @@ def main():
                 execute_withdrawal(total_deduction, amount)
                 
         elif choice == "4":
-            print("Cảm ơn quý khách đã sử dụng dịch vụ!")
+            print("Thoát chương trình!")
             break
             
         else:
